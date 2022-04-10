@@ -15,6 +15,7 @@ Depending on what you'd like to dive into there are a bunch of resources. All of
 
 ## Courses
  * [Free Udemy courses](https://www.udemy.com/topic/ethical-hacking/free/) This is a link with free Udemy courses about Etichal Hacking.
+ * [Free course Etichal Hacking basics](https://www.guru99.com/ethical-hacking-tutorials.html)
 
 ## Media
 * [Documentary Hacked](https://www.svtplay.se/hackad) A swedish documentary about hacking.
