@@ -14,10 +14,13 @@ Depending on what you'd like to dive into there are a bunch of resources. All of
 
 
 ## Courses
-* [Free Udemy courses](https://www.udemy.com/topic/ethical-hacking/free/) This is a link with free Udemy courses about Etichal Hacking.
 
 
 ## Media
 * [Documentary Hacked](https://www.svtplay.se/hackad) A swedish documentary about hacking.
 * [Podcast Darknet Diaries](https://darknetdiaries.com/) A podcast about hackers, security breaches etc. 
+* DataTjej Podcast - Säsong 1 avsnitt 5 - Båda gästerna jobbar inom cybersäkerhet
+* DataTjej Podcast - Säsong 1 avsnitt 7 - Handla om att byta karriär, när Linda jobba inom cybersäkerhet
+* ASDF - Avsnitt 51 Stoppa huvudet i sanden - Diskussion om att dra in dependencys och följer av de
+
 
