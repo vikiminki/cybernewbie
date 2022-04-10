@@ -18,6 +18,6 @@ Depending on what you'd like to dive into there are a bunch of resources. All of
 
 
 ## Media
-
-
+* [Documentary Hacked](https://www.svtplay.se/hackad) A swedish documentary about hacking.
+* [Podcast Darknet Diaries](https://darknetdiaries.com/) A podcast about hackers, security breaches etc. 
 
