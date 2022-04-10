@@ -10,11 +10,11 @@ Depending on what you'd like to dive into there are a bunch of resources. All of
 * [OverTheWire wargames](https://overthewire.org/wargames/) This resource starts from learning basic linux commands in the first game Bandit, and then builds from that into different security topics.
 * [Tryhackme](https://tryhackme.com/) A bunch of tutorials in the form of "rooms" of different topics, with detailed walkthroughs. Varying difficulties available. 
 * [PicoCTF](https://picoctf.org/) A portal with CTF challenges for cyber security education, very beginner-friendly with hints etc.
-*
+* [Hack the box](https://www.hackthebox.com/) 
 
 
 ## Courses
-
+ * [Free Udemy courses] (https://www.udemy.com/topic/ethical-hacking/free/) This is a link with free Udemy courses about Etichal Hacking.
 
 ## Media
 * [Documentary Hacked](https://www.svtplay.se/hackad) A swedish documentary about hacking.
