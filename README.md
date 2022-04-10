@@ -14,6 +14,7 @@ Depending on what you'd like to dive into there are a bunch of resources. All of
 
 
 ## Courses
+* [Free Udemy courses] (https://www.udemy.com/topic/ethical-hacking/free/) This is a link with free Udemy courses about Etichal Hacking.
 
 
 ## Media
