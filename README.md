@@ -1,6 +1,6 @@
 # cybernewbie
 
-This is a repository of resources for anyone who is new to and wants to learn about cyber security. It is focused on skills/tools that could be useful for participating in [CTF's](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)).
+This is a repository of resources for anyone who is new to and wants to learn about cyber security. It is partly focused on skills/tools that could be useful for participating in [CTF's](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)).
 
 
 ## Some ideas of where to start
